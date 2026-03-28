@@ -42,23 +42,32 @@ Integrated M.Tech AI first-year students at VIT Bhopal University
 4)  Which tool is used for collaboration? | Multiple Choice |
 5)  Name one way to stay safe online.  | Short Answer |
 
+**Multiple Choice Options for Q1:**
+A. Ability to use digital devices and internet effectively
+B. Only using social media
+C. Playing games
+D. Typing fast
+
 **Multiple Choice Options for Q2:**
-- A) Sharing your password with friends
-- B) Using the same password for all accounts
-- C) Enabling two-factor authentication ✅
-- D) Clicking on unknown links in emails
+A. 123456
+B. password123
+C. MyName2020
+D. G7@kL9!pQ
 
 **Multiple Choice Options for Q3:**
-- A) Watching movies and web series
-- B) Storing and sharing code projects ✅
-- C) Sending professional emails
-- D) Creating design infographics
+- A) Click it
+- B) Ignore or report it
+- C) Forward it
+- D) Reply with details
 
 **Multiple Choice Options for Q4:**
-- A) Using Google Forms to conduct a quiz
-- B) Creating a LinkedIn profile for networking
-- C) Phishing someone to steal their bank details ✅
-- D) Uploading AI projects to GitHub
+- A) Google Docs
+- B) Paint
+- C) Calculator
+- D) Notepad
+
+**Multiple Choice Options for Q5:**
+Short answer: ______
 
 **Google Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSdH2pEho-il0mL5CZlI5bA9WtCtoxbjtL3K6GVwmUgn6bcbuw/viewform
 **Google Sheet (Response View):** https://docs.google.com/forms/d/1k54U5xQDLpWBiJVI6dvnLn5I-wxxZQSz418MBFHCOOo/edit#responses

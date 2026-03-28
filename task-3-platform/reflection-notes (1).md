@@ -42,34 +42,34 @@ Integrated M.Tech AI first-year students at VIT Bhopal University
 5)  Name one way to stay safe online.  | Short Answer |
 
 **Multiple Choice Options for Q1:**
-A. Ability to use digital devices and internet effectively
-B. Only using social media
-C. Playing games
-D. Typing fast
+| A. Ability to use digital devices and internet effectively |
+| B. Only using social media |
+| C. Playing games |
+| D. Typing fast |
 
 **Multiple Choice Options for Q2:**
-A. 123456
-B. password123
-C. MyName2020
-D. G7@kL9!pQ
+| A. 123456 |
+| B. password123 |
+| C. MyName2020 |
+| D. G7@kL9!pQ |
 
 **Multiple Choice Options for Q3:**
-- A) Click it
-- B) Ignore or report it
-- C) Forward it
-- D) Reply with details
+| A) Click it |
+| B) Ignore or report it |
+| C) Forward it |
+| D) Reply with details |
 
 **Multiple Choice Options for Q4:**
-- A) Google Docs
-- B) Paint
-- C) Calculator
-- D) Notepad
+| A) Google Docs |
+| B) Paint |
+| C) Calculator |
+| D) Notepad |
 
 **Multiple Choice Options for Q5:**
-Short answer: ______
+| Short answer: ______ |
 
-**Google Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSdH2pEho-il0mL5CZlI5bA9WtCtoxbjtL3K6GVwmUgn6bcbuw/viewform
-**Google Sheet (Response View):** https://docs.google.com/forms/d/1k54U5xQDLpWBiJVI6dvnLn5I-wxxZQSz418MBFHCOOo/edit#responses
+**Google Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSeTKQrx8bCb4I8icwbfHhks7CPhfV7Wgr38MQxfulmrASJxjQ/viewform?usp=publish-editor
+**Google Sheet (Response View):** https://docs.google.com/spreadsheets/d/1wnp5l8dzCWFz6-dzbjldZSCh021AO8tNnXHAkTivAZw/edit?resourcekey=&gid=240108307#gid=240108307
 
 **Screenshot:** Uploaded as `google-form.png` and
 `google-response.png` in task-3-platforms/ folder.

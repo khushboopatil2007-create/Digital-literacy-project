@@ -76,7 +76,7 @@ Integrated M.Tech AI first-year students at VIT Bhopal University
 
 
 
-## Part A – Coding Practice Platform
+## Part B - Hackerrank
 
 ### Platform Used: HackerRank
 

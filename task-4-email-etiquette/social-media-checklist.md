@@ -1,8 +1,8 @@
 # Task 4 – Social Media Do's and Don'ts Checklist
 ## Responsible Social Media Use for College Students
 
-**Name:** Roneet Sarode
-**Reg No:** 25MIM10145
+**Name:** Khushboo Vinod Patil
+**Reg No:** 25MIM10104
 **Branch:** Integrated M.Tech – Artificial Intelligence
 **Year:** First Year
 **Institution:** VIT Bhopal University
@@ -53,7 +53,7 @@ Enable 2FA on accounts       ↔  Click suspicious links
 
 ---
 
-## 📖 Reflection – Task 4 Report Write-up (100–150 words)
+## 📖 Reflection – Task 4 Report Write-up 
 
 For Task 4, I drafted two professional emails and created a Social
 Media Do's and Don'ts checklist. One situation where poor digital
@@ -73,11 +73,11 @@ incident taught me that anything posted on the internet is
 permanent and public, and that professional digital communication
 must be practiced even as a student.
 
-*(Word count: ~140 words — rewrite in your own words for submission)*
+
 
 ---
 
 *Submitted as part of CSE0001 – Digital Literacy Project*
-*Name: Roneet Sarode | Reg No: 25MIM10145*
+*Name: Khushboo Vinod Patil | Reg No: 25MIM10104*
 *Integrated M.Tech – Artificial Intelligence*
 *VIT Bhopal University | Passout Year: 2030*

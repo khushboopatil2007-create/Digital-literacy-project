@@ -34,8 +34,7 @@ The form contains exactly 5 questions as required by the task.
 Integrated M.Tech AI first-year students at VIT Bhopal University
 
 | No. | Question | Type |
-|-----|----------|------|
-| 1 | 
+
 1) What does Digital Literacy mean?  | Multiple choice |
 2) Which is a strong password? | Multiple Choice |
 3) What should you do if you get a suspicious email? | Multiple Choice |

@@ -4,10 +4,7 @@
 **Reg No.:** 25MIM10104
 **Branch:** Integrated M.Tech AI
 **Course Code:** CSE0001 – Digital Literacy
-**Module:** Module 1
-**Marks:** 20
 
----
 
 ## Overview
 
@@ -43,13 +40,13 @@ The infographic covers the following three topics:
 ## Files in This Folder
 
 | File | Description |
-|---|---|
-| `digital_literacy_infographic_KhushbooPatil.png` | Exported infographic image |
-| `description.md` | This file – task description and reflection |
+
+| task-1-infographic.png` | Exported infographic image |
+| task-1-description.md` | This file – task description and reflection |
 
 ---
 
-## Reflection (150–200 words)
+## Reflection 
 
 For Task 1, I used Canva to design a one-page Digital Literacy Awareness Infographic. Canva is a free, browser-based graphic design tool that offers a wide range of ready-made templates, icons, and colour themes suitable for educational posters and infographics.
 
@@ -61,9 +58,6 @@ One challenge I faced was deciding how much information to include without makin
 
 ## Canva Design Link
 
-> _Paste your Canva shareable link here after completing the design_
-> Example: `https://www.canva.com/design/your-design-id/view`
 
----
 
 *Submitted as part of CSE0001 – Digital Literacy Project | VIT Bhopal University*

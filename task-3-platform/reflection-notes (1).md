@@ -1,8 +1,8 @@
 # Task 3 – Reflection Notes
 ## Explore Coding & Collaboration Platforms
 
-**Name:** Roneet Sarode
-**Reg No:** 25MIM10145
+**Name:** Khushboo Vinod Patil
+**Reg No:** 25MIM10104
 **Branch:** Integrated M.Tech – Artificial Intelligence
 **Institution:** VIT Bhopal University
 
@@ -87,7 +87,7 @@ submitting my solution, it was accepted successfully.
 
 **Challenge Completed:**
 - Challenge Name  : Solve Me First
-- Domain          : Mathematics/ Problem Solving
+- Domain          : python/ Problem Solving
 - Difficulty Level: Easy (Beginner)
 - Result          : Passed Successfully
 
@@ -104,7 +104,7 @@ task-3-platforms/ folder.
 
 ## Overall Reflection 
 
-For Task 3, I, Roneet Sarode (Reg No: 25MIM10145), explored two
+For Task 3, I, Khushboo Vinod Patil (Reg No: 25MIM10104), explored two
 important categories of digital tools — a coding practice platform
 (HackerRank) and a collaboration tool (Google Forms). Both were
 completely new experiences for me as a first-year Integrated M.Tech
@@ -143,6 +143,6 @@ Integrated M.Tech programme, graduating in 2030.
 ---
 
 *Submitted as part of CSE0001 – Digital Literacy Project*
-*Name: Roneet Sarode | Reg No: 25MIM10145*
+*Name: Khushboo Vinod Patil| Reg No: 25MIM10104
 *Integrated M.Tech – Artificial Intelligence*
 *VIT Bhopal University | Passout Year: 2030*

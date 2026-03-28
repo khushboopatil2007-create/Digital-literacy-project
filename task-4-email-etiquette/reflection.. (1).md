@@ -75,7 +75,7 @@ technology.
 | Email Element | What I Wrote |
 |---------------|--------------|
 | To | internships@companyname.com |
-| From | roneet.sarode2025@vitbhopal.ac.in |
+| From | khushboo.patil2025@vitbhopal.ac.in |
 | Subject Line | Application for Summer Internship – Artificial Intelligence / Roneet Sarode |
 | Greeting | Dear Sir/Madam, |
 | Introduction | Name, reg no., branch, institution clearly stated |

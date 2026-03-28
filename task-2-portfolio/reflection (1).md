@@ -82,8 +82,7 @@ when they come.
 
 **Screenshot:** Uploaded as `linkedin-profile.png` in
 task-2-portfolio/ folder.
-
----
+Linkedin profile link = https://www.linkedin.com/in/khushboo-vinod-patil-59039b384?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ### Platform 3 — Kaggle
 

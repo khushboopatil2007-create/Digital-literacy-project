@@ -1,8 +1,8 @@
 # Task 4 – Reflection Notes
 ## Draft a Professional Email & Etiquette Guide
 
-**Name:** Roneet Sarode
-**Reg No:** 25MIM10145
+**Name:** Khushboo Vinod Patil
+**Reg No:** 25MIM10104
 **Branch:** Integrated M.Tech – Artificial Intelligence
 **Year:** First Year
 **Expected Passout Year:** 2030
@@ -34,7 +34,7 @@ due to a genuine reason.
 | Email Element | What I Wrote |
 |---------------|--------------|
 | To | professor.name@vitbhopal.ac.in |
-| From | roneet.sarode2025@vitbhopal.ac.in |
+| From | khushboo.patil2025@vitbhopal.ac.in |
 | Subject Line | Request for Extension of Assignment Submission Deadline – CSE0001 |
 | Greeting | Dear Professor [Last Name], |
 | Introduction | Introduced myself with name, reg no., branch, and course |
@@ -156,9 +156,9 @@ permanent and public, and that even students must practice
 responsible and professional digital communication at all
 times.
 
-*(Word count: ~140 words — rewrite in your own words for submission)*
 
----
+
+
 
 ## 💡 Key Learnings from Task 4
 
@@ -205,6 +205,6 @@ times.
 ---
 
 *Submitted as part of CSE0001 – Digital Literacy Project*
-*Name: Roneet Sarode | Reg No: 25MIM10145*
+*Name: Khushboo Vinod Patil | Reg No: 25MIM10104
 *Integrated M.Tech – Artificial Intelligence*
 *VIT Bhopal University | Passout Year: 2030*

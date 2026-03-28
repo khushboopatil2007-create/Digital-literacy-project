@@ -10,7 +10,7 @@
 
 As a Student Digital Ambassador, I created a one-page Digital Literacy Awareness Infographic to help my batchmates understand what Digital Literacy means and why it is important in today's digital world.
 
----
+
 
 ## Tool Used
 

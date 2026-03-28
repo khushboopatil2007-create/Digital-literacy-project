@@ -35,11 +35,12 @@ Integrated M.Tech AI first-year students at VIT Bhopal University
 
 | No. | Question | Type |
 |-----|----------|------|
-| 1 | What does the term "Digital Literacy" mean to you? | Short Answer |
-| 2 | Which of the following is a safe internet practice? | Multiple Choice |
-| 3 | What is GitHub primarily used for? | Multiple Choice |
-| 4 | Which of the following is an example of cybercrime? | Multiple Choice |
-| 5 | Name one platform useful for building a professional profile as an AI student. | Short Answer |
+| 1 | 
+1) What does Digital Literacy mean?  | Multiple choice |
+2) Which is a strong password? | Multiple Choice |
+3) What should you do if you get a suspicious email? | Multiple Choice |
+4)  Which tool is used for collaboration? | Multiple Choice |
+5)  Name one way to stay safe online.  | Short Answer |
 
 **Multiple Choice Options for Q2:**
 - A) Sharing your password with friends

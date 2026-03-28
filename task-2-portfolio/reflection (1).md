@@ -51,8 +51,7 @@ throughout my college journey.
 
 **Screenshot:** Uploaded as `github-profile.png` in
 task-2-portfolio/ folder.
-
----
+Github profile link = https://github.com/khushboopatil2007-create
 
 ### Platform 2 — LinkedIn
 
@@ -112,8 +111,7 @@ years to:
 
 **Screenshot:** Uploaded as `kaggle-profile.png` in
 task-2-portfolio/ folder.
-
----
+Kaggle profile link = https://www.kaggle.com/khushboo0919
 
 # ✍️ Overall Reflection
 

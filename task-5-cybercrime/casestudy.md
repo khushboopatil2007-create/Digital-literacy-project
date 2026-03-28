@@ -1,8 +1,8 @@
 # Task 5 – Cybercrime Case Study
 ## UPI / Online Payment Fraud
 
-**Name:** Roneet Sarode
-**Reg No:** 25MIM10145
+**Name:** Khushboo Vinod Patil
+**Reg No:** 25MIM10104
 **Branch:** Integrated M.Tech – Artificial Intelligence
 **Year:** First Year
 **Expected Passout Year:** 2030
@@ -93,6 +93,6 @@ reported across Indian newspapers and cybercrime databases.
 ---
 
 *Submitted as part of CSE0001 – Digital Literacy Project*
-*Name: Roneet Sarode | Reg No: 25MIM10145*
+*Name: Khushboo Vinod Patil | Reg No: 25MIM10104
 *Integrated M.Tech – Artificial Intelligence*
 *VIT Bhopal University | Passout Year: 2030*

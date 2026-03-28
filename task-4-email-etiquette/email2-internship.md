@@ -1,8 +1,8 @@
 # Task 4 – Email 2
 ## Student to Internship Coordinator: Expressing Interest in Summer Internship
 
-**Name:** Roneet Sarode
-**Reg No:** 25MIM10145
+**Name:** Khushboo Vinod Patil
+**Reg No:** 25MIM10104
 **Branch:** Integrated M.Tech – Artificial Intelligence
 **Year:** First Year
 **Institution:** VIT Bhopal University
@@ -12,16 +12,16 @@
 ## 📧 Email Draft
 
 **To:** internships@companyname.com
-**From:** roneet.sarode2025@vitbhopal.ac.in
-**Subject:** Application for Summer Internship Opportunity – Artificial Intelligence | Roneet Sarode
+**From:** khushboo.patil2025@vitbhopal.ac.in
+**Subject:** Application for Summer Internship Opportunity – Artificial Intelligence |Khushboo Vinod Patil
 
----
+
 
 Dear Sir/Madam,
 
-I hope this email finds you well. I am Roneet Sarode, a first-year
+I hope this email finds you well. I am Khushboo Vinod Patil , a first-year
 Integrated M.Tech student specializing in Artificial Intelligence
-at VIT Bhopal University (Registration Number: 25MIM10145). I am
+at VIT Bhopal University (Registration Number: 25MIM10104). I am
 writing to express my sincere interest in a summer internship
 opportunity at [Company Name].
 
@@ -49,13 +49,13 @@ Thank you for your time and consideration. I look forward to
 hearing from you.
 
 Yours sincerely,
-Roneet Sarode
-Reg No: 25MIM10145
+Khushboo Vinod Patil
+Reg No: 25MIM10104
 Integrated M.Tech – Artificial Intelligence (Year 1)
 VIT Bhopal University
-Email: roneet.sarode2025@vitbhopal.ac.in
-GitHub: github.com/RoneetSarode
-LinkedIn: linkedin.com/in/roneet-sarode
+Email: khushboo.patil2025@vitbhopal.ac.in
+GitHub: github.com/Khushboo Vinod Patil
+LinkedIn: linkedin.com/in/Khushboo Vinod Patil
 
 ---
 

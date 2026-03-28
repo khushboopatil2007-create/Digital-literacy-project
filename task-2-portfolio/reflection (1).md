@@ -1,8 +1,8 @@
 # Task 2 – Reflection Notes
 ## Build Your Student Digital Portfolio
 
-**Name:** Roneet Sarode
-**Reg No:** 25MIM10145
+**Name:** Khushboo Vinod Patil
+**Reg No:** 25MIM10104
 **Branch:** Integrated M.Tech – Artificial Intelligence
 **Institution:** VIT Bhopal University
 
@@ -32,10 +32,10 @@ candidate's GitHub profile during hiring and internship selection.
 **What I Did on GitHub:**
 - Created my GitHub account using my VIT Bhopal college email
 - Created a special Profile README repository named after my
-  username (e.g., github.com/RoneetSarode)
+  username (e.g., github.com/Khushboo Vinod Patil)
 - Added the following details to my profile README:
-  - Full Name: Roneet Sarode
-  - Registration Number: 25MIM10145
+  - Full Name: Khushboo Vinod Patil
+  - Registration Number: 25MIM10104
   - Branch: Integrated M.Tech – Artificial Intelligence
   - Institution: VIT Bhopal University
   - Learning Goal: I hope to learn Machine Learning, Deep
@@ -153,6 +153,6 @@ before my passout in 2030. This task was not just an assignment
 
 
 *Submitted as part of CSE0001 – Digital Literacy Project*
-*Name: Roneet Sarode | Reg No: 25MIM10145*
+*Name: Khushboo Vinod Patil | Reg No: 25MIM10104
 *Integrated M.Tech – Artificial Intelligence*
 *VIT Bhopal University | Passout Year: 2030*

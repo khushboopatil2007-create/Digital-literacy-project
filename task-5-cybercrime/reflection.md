@@ -1,8 +1,8 @@
 # Task 5 – Reflection Notes
 ## Cybercrime Awareness Case Study & Prevention Guide
 
-**Name:** Roneet Sarode
-**Reg No:** 25MIM10145
+**Name:** Khushboo Vinod Patil
+**Reg No:** 25MIM10104
 **Branch:** Integrated M.Tech – Artificial Intelligence
 **Year:** First Year
 **Expected Passout Year:** 2030
@@ -92,7 +92,7 @@ task-5-cybercrime/ folder.
 
 ---
 
-## ✍️ Reflection Write-up (100–150 words)
+## ✍️ Reflection Write-up 
 
 While researching UPI fraud for this task, the thing that
 surprised me the most was how simple and psychological these
@@ -111,9 +111,7 @@ also share the key rule "You never need a PIN to receive money"
 with my family and batchmates, because I realized that most
 people simply do not know this basic but life-saving fact.
 
-*(Word count: ~145 words — rewrite in your own words for submission)*
 
----
 
 ## 💡 Key Learnings from Task 5
 
@@ -160,7 +158,7 @@ people simply do not know this basic but life-saving fact.
 |-----------|-------------|
 | `casestudy.md` | UPI fraud case study — 200-250 words |
 | `prevention-checklist.md` | Stay Safe Online — 12 prevention tips |
-| `reflection-notes.md` | This reflection file |
+| `reflection.md` | This reflection file |
 
 ---
 
@@ -176,6 +174,6 @@ people simply do not know this basic but life-saving fact.
 ---
 
 *Submitted as part of CSE0001 – Digital Literacy Project*
-*Name: Roneet Sarode | Reg No: 25MIM10145*
+*Name: Khushboo Vinod Patil | Reg No: 25MIM10104
 *Integrated M.Tech – Artificial Intelligence*
 *VIT Bhopal University | Passout Year: 2030*

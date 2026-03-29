@@ -51,28 +51,28 @@ digital-literacy-project/
 │   └── 📝 Project_Report.pdf                ← Full project report
 │
 ├── 📂 task-1-presentation/
-│   ├── 📝 description.md                    ← Task description & reflection
+│   ├── 📝 reflection.md                    ← Task description & reflection
 │   └── 🖼️  digital_literacy_infographic.png ← Canva infographic export
 │
 ├── 📂 task-2-portfolio/
-│   ├── 📝 description.md                    ← Task description & reflection
+│   ├── 📝  reflection.md                    ← Task description & reflection
 │   ├── 🖼️  github_profile_screenshot.png
 │   ├── 🖼️  linkedin_profile_screenshot.png
 │   └── 🖼️  kaggle_profile_screenshot.png
 │
 ├── 📂 task-3-platforms/
-│   ├── 📝 description.md                    ← Task description & reflection
+│   ├── 📝  reflection.md                    ← Task description & reflection
 │   ├── 🖼️  hackerrank_challenge_screenshot.png
 │   ├── 🖼️  google_form_screenshot.png
 │   └── 🖼️  google_sheet_responses_screenshot.png
 │
 ├── 📂 task-4-email-etiquette/
-│   ├── 📝 description.md                    ← Task description & reflection
+│   ├── 📝 reflection.md                    ← Task description & reflection
 │   ├── 📄 email_drafts.pdf                  ← Both professional emails
 │   └── 📝 social-media-checklist.md         ← Do's & Don'ts checklist
 │
 └── 📂 task-5-cybercrime/
-    ├── 📝 description.md                    ← Task description & reflection
+    ├── 📝 reflection.md                    ← Task description & reflection
     ├── 📝 casestudy.md                      ← UPI fraud case study
     └── 📝 prevention-checklist.md           ← Stay Safe Online checklist
 ```

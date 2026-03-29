@@ -194,12 +194,12 @@ Created a **"Stay Safe Online" checklist** with **8+ actionable tips** for colle
 
 | Task | Description | Max Marks |
 |---|---|---|
-| Task 1 | Digital Literacy Infographic | |
-| Task 2 | Student Digital Portfolio |  |
-| Task 3 | Coding & Collaboration Platforms |  |
-| Task 4 | Email Etiquette & Communication |  |
-| Task 5 | Cybercrime Awareness Case Study |  |
-| 🎁 Bonus | Repository Structure & README |  |
+| Task 1 | Digital Literacy Infographic | 20 |
+| Task 2 | Student Digital Portfolio | 20 |
+| Task 3 | Coding & Collaboration Platforms | 20 |
+| Task 4 | Email Etiquette & Communication | 20 |
+| Task 5 | Cybercrime Awareness Case Study | 20 |
+| 🎁 Bonus | Repository Structure & README | +5 |
 
 
 > ✅ **Pass Mark:** 50 / 100 | **Grade:** Pass / Fail | **Does NOT affect CGPA**

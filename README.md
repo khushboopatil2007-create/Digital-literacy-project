@@ -84,7 +84,7 @@ digital-literacy-project/
 ---
 
 ### ✅ Task 1 – Digital Literacy Awareness Infographic
-> **Module 1 | 20 Marks**
+
 
 Created a one-page **Digital Literacy Awareness Infographic** using **Canva** to help batchmates understand what digital literacy means and why it matters.
 
@@ -94,21 +94,21 @@ Created a one-page **Digital Literacy Awareness Infographic** using **Canva** to
 - 🌐 Professional Online Presence for Students
 
 **Tool Used:** Canva (canva.com)
-**🔗 Canva Design Link:** [Paste your Canva link here]
+**🔗 Canva Design Link:** [ https://www.canva.com/design/DAHFLGcfyLo/ZfqPd99iaFHvUYUygUGZKg/edit?utm_content=DAHFLGcfyLo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 **📁 Folder:** `task-1-presentation/`
 
 ---
 
 ### ✅ Task 2 – Student Digital Portfolio
-> **Module 2 | 20 Marks**
+
 
 Set up professional profiles on **three key platforms** to build a strong digital presence as an Integrated M.Tech AI student.
 
 | Platform | Purpose | Profile Link |
 |---|---|---|
-| 🐙 **GitHub** | Code portfolio and project hosting | [Paste GitHub link here] |
-| 💼 **LinkedIn** | Professional networking and career building | [Paste LinkedIn link here] |
-| 📊 **Kaggle** | Data science and AI competitions | [Paste Kaggle link here] |
+| 🐙 **GitHub** | Code portfolio and project hosting | [ https://github.com/khushboopatil2007-create] |
+| 💼 **LinkedIn** | Professional networking and career building | [ https://www.linkedin.com/in/khushboo-vinod-patil-59039b384?utm_source=share_via&utm_content=profile&utm_medium=member_android ] |
+| 📊 **Kaggle** | Data science and AI competitions | [ https://www.kaggle.com/khushboo0919 ] |
 
 **GitHub Profile README includes:**
 - Name, Reg No., Branch, Year, Institution
@@ -119,9 +119,17 @@ Set up professional profiles on **three key platforms** to build a strong digita
 ---
 
 ### ✅ Task 3 – Coding & Collaboration Platforms
-> **Module 3 | 20 Marks**
 
-**Part A – Coding Practice (HackerRank):**
+
+
+
+**Part A – Google Workspace (Google Forms):**
+
+Created a **"Digital Literacy Awareness Quiz"** with 5 questions for batchmates — including Multiple Choice and Short Answer questions.
+
+Google Form Link [ https://docs.google.com/forms/d/e/1FAIpQLSeTKQrx8bCb4I8icwbfHhks7CPhfV7Wgr38MQxfulmrASJxjQ/viewform?usp=publish-editor]
+
+**Part B ** **** – Coding Practice (HackerRank):**
 
 | Detail | Info |
 |---|---|
@@ -130,18 +138,12 @@ Set up professional profiles on **three key platforms** to build a strong digita
 | Domain | Python / Problem Solving |
 | Level | Beginner (Easy) |
 | Result | ✅ Passed |
-
-**Part B – Google Workspace (Google Forms):**
-
-Created a **"Digital Literacy Awareness Quiz"** with 5 questions for batchmates — including Multiple Choice and Short Answer questions.
-
-**🔗 Google Form Quiz Link:** [Paste your Google Form link here]
+**🔗 Google Form Quiz Link:** [ ]
 **📁 Folder:** `task-3-platforms/`
 
 ---
 
 ### ✅ Task 4 – Professional Email & Etiquette Guide
-> **Module 4 | 20 Marks**
 
 **Part A – Two Professional Emails drafted:**
 
@@ -165,10 +167,10 @@ Created a **Do's and Don'ts checklist** with 5+ Do's and 5+ Don'ts for responsib
 ---
 
 ### ✅ Task 5 – Cybercrime Awareness Case Study & Prevention Guide
-> **Module 5 | 20 Marks**
+> 
 
 **Part A – Case Study:**
-Wrote a **200–250 word case study** on **UPI / Online Payment Fraud** — covering how it happens step-by-step, who is targeted, and the real consequences for victims.
+Wrote a  case study** on **UPI / Online Payment Fraud** — covering how it happens step-by-step, who is targeted, and the real consequences for victims.
 
 **Part B – Prevention Checklist:**
 Created a **"Stay Safe Online" checklist** with **8+ actionable tips** for college students in India — including 2 UPI-specific financial safety tips.
@@ -192,13 +194,13 @@ Created a **"Stay Safe Online" checklist** with **8+ actionable tips** for colle
 
 | Task | Description | Max Marks |
 |---|---|---|
-| Task 1 | Digital Literacy Infographic | 20 |
-| Task 2 | Student Digital Portfolio | 20 |
-| Task 3 | Coding & Collaboration Platforms | 20 |
-| Task 4 | Email Etiquette & Communication | 20 |
-| Task 5 | Cybercrime Awareness Case Study | 20 |
-| 🎁 Bonus | Repository Structure & README | +5 |
-| **Total** | | **100** |
+| Task 1 | Digital Literacy Infographic | |
+| Task 2 | Student Digital Portfolio |  |
+| Task 3 | Coding & Collaboration Platforms |  |
+| Task 4 | Email Etiquette & Communication |  |
+| Task 5 | Cybercrime Awareness Case Study |  |
+| 🎁 Bonus | Repository Structure & README |  |
+
 
 > ✅ **Pass Mark:** 50 / 100 | **Grade:** Pass / Fail | **Does NOT affect CGPA**
 
@@ -208,12 +210,12 @@ Created a **"Stay Safe Online" checklist** with **8+ actionable tips** for colle
 
 | Task | Tool | Purpose | Link |
 |---|---|---|---|
-| Task 1 | Canva | Infographic design | [canva.com](https://canva.com) |
-| Task 2 | GitHub | Code portfolio hosting | [github.com](https://github.com) |
-| Task 2 | LinkedIn | Professional networking | [linkedin.com](https://linkedin.com) |
-| Task 2 | Kaggle | AI/ML practice platform | [kaggle.com](https://kaggle.com) |
+| Task 1 | Canva | Infographic design | [canva.com]( https://www.canva.com/design/DAHFWFRUxPI/taufamy_lLrleyLQ9dsRwA/edit?utm_content=DAHFWFRUxPI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+| Task 2 | GitHub | Code portfolio hosting | [github.com](https://github.com/khushboopatil2007-create) |
+| Task 2 | LinkedIn | Professional networking | [linkedin.com](https://www.linkedin.com/in/khushboo-vinod-patil-59039b384?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
+| Task 2 | Kaggle | AI/ML practice platform | [kaggle.com]( https://www.kaggle.com/khushboo0919) |
 | Task 3 | HackerRank | Coding challenges | [hackerrank.com](https://hackerrank.com) |
-| Task 3 | Google Forms | Quiz and data collection | [forms.google.com](https://forms.google.com) |
+| Task 3 | Google Forms | Quiz and data collection | [forms.google.com]( https://docs.google.com/forms/d/e/1FAIpQLSeTKQrx8bCb4I8icwbfHhks7CPhfV7Wgr38MQxfulmrASJxjQ/viewform?usp=publish-editor) |
 | Task 5 | Cyber Crime Portal | Report cybercrime | [cybercrime.gov.in](https://cybercrime.gov.in) |
 
 ---
@@ -239,9 +241,9 @@ I am a first-year student pursuing **Integrated M.Tech in Artificial Intelligenc
 I am passionate about **Artificial Intelligence and Machine Learning**, and I hope to build real-world AI projects over the next five years. This repository marks the beginning of my professional digital journey, and I plan to keep growing it as I learn and develop new skills.
 
 📫 **Connect with me:**
-- 🐙 GitHub: [Paste your GitHub link here]
-- 💼 LinkedIn: [Paste your LinkedIn link here]
-- 📊 Kaggle: [Paste your Kaggle link here]
+- 🐙 GitHub: [ https://github.com/khushboopatil2007-create]
+- 💼 LinkedIn: [ https://www.linkedin.com/in/khushboo-vinod-patil-59039b384?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- 📊 Kaggle: [ https://www.kaggle.com/khushboo0919 ]
 
 ---
 

@@ -138,7 +138,7 @@ Google Form Link [ https://docs.google.com/forms/d/e/1FAIpQLSeTKQrx8bCb4I8icwbfH
 | Domain | Python / Problem Solving |
 | Level | Beginner (Easy) |
 | Result | ✅ Passed |
-**🔗 Google Form Quiz Link:** [ ]
+**🔗 Google Form Quiz Link:** [ https://docs.google.com/forms/d/e/1FAIpQLSeTKQrx8bCb4I8icwbfHhks7CPhfV7Wgr38MQxfulmrASJxjQ/viewform?usp=publish-editor ]
 **📁 Folder:** `task-3-platforms/`
 
 ---
